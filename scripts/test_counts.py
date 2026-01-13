@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("minibatch_kmeans_balanced_with_smote.csv")
+df = pd.read_csv("final_hdbscan_balanced.csv")
 
 # 1. Κατανομή Label
 print("Κατανομή Label:")
